@@ -50,20 +50,12 @@ This tool evaluates multiple cardiovascular risk factors and provides personaliz
 
 ## 🚀 Quick Start
 
-### Option 1: Direct Use
-1. Download `heart-reset-assessment.html`
-2. Open in any modern web browser
-3. Complete the assessment
-4. Review your cardiovascular risk profile
-
-### Option 2: Host on GitHub Pages
+### Option: Host on GitHub Pages
 1. Fork this repository
 2. Go to Settings → Pages
 3. Enable GitHub Pages from `main` branch
 4. Access at `https://yourusername.github.io/heart-reset-dashboard`
 
-### Option 3: Deploy to Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy)
 
 ## 📊 Scoring Methodology
 
