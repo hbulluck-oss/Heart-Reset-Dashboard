@@ -1,4 +1,4 @@
-[heart-reset-dashboard.html](https://github.com/user-attachments/files/25053131/heart-reset-dashboard.html)
+(https://github.com/user-attachments/files/25053131/heart-reset-dashboard.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
