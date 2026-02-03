@@ -29,19 +29,3 @@ Simply click the link above to access the assessment. No installation required.
 
 **Disclaimer**: For educational purposes only. Not medical advice. Consult your physician.
 ```
-
-### **Step 2: Rename HTML File**
-Either:
-- Rename `heart-reset-dashboard.html` to `index.html` 
-- OR update GitHub Pages settings to use `heart-reset-dashboard.html`
-
-### **Step 3: Check GitHub Pages Settings**
-1. Go to Settings → Pages
-2. Make sure Source is set to: `main` branch, `/` (root)
-3. Save and wait 1-2 minutes for deployment
-
----
-
-**Your live URL should be:**
-```
-https://hbulluck-oss.github.io/Heart-Reset-Dashboard/
