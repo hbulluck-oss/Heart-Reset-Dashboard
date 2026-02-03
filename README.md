@@ -28,4 +28,3 @@ Simply click the link above to access the assessment. No installation required.
 ---
 
 **Disclaimer**: For educational purposes only. Not medical advice. Consult your physician.
-```
