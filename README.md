@@ -96,7 +96,7 @@ The assessment uses a calibrated point system across multiple categories:
 
 **Non-Modifiable Factors:**
 - **Age** (0-15 points): ≥65: 15, 55-64: 10, 45-54: 6, 35-44: 3
-- **Ethnicity** (0-8 points): South Asian/Middle Eastern: 8, African/Afro-Caribbean: 6
+- **Ethnicity** (0-8 points): South Asian/Middle Eastern: 8, Black (African/Afro-Caribbean/ Other): 6
 - **Family History** (0-18 points): Both parents: 18, One parent: 10, Sibling(s): 15, Multiple: 22
 
 **Modifiable Factors:**
