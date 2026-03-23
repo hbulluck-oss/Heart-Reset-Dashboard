@@ -600,7 +600,7 @@
                 questions: [
                     { id: 'age', text: 'What is your age?', type: 'number' },
                     { id: 'gender', text: 'What is your gender?', type: 'select', options: ['Male', 'Female'] },
-                    { id: 'ethnicity', text: 'What is your ethnicity?', type: 'select', options: ['White European', 'South Asian', 'East Asian', 'Middle Eastern', 'African/Afro-Caribbean', 'Hispanic/Latino', 'Other'] },
+                    { id: 'ethnicity', text: 'What is your ethnicity?', type: 'select', options: ['White European', 'South Asian', 'East Asian', 'Middle Eastern', 'Black (African/Afro-Caribbean/ Other)', 'Hispanic/Latino', 'Other'] },
                     { id: 'familyHistory', text: 'Family history of heart disease before age 60?', type: 'select', options: ['No', 'Yes - one parent', 'Yes - both parents', 'Yes - sibling(s)', 'Multiple family members'] }
                 ]
             },
@@ -648,7 +648,7 @@
             // ETHNICITY SCORING - Reduced weight
             if (['South Asian', 'Middle Eastern'].includes(state.answers.ethnicity)) { 
                 t += 8; r.push('High-risk ethnicity'); 
-            } else if (state.answers.ethnicity === 'African/Afro-Caribbean') { 
+            } else if (state.answers.ethnicity === 'Black (African/Afro-Caribbean/ Other)') { 
                 t += 6; r.push('Ethnic risk'); 
             }
             m += 12;
